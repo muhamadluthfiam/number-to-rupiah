@@ -1,0 +1,28 @@
+{
+  "name": "numeric-toolkit",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Numeric Toolkit is a simple JavaScript library that provides functions for number formatting and basic mathematical operations. This library can be used to facilitate number manipulation in your applications.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "keywords": [
+    "number",
+    "format",
+    "formatting",
+    "math",
+    "arithmetic",
+    "toolkit",
+    "utility",
+    "numeric",
+    "manipulation",
+    "operations"
+  ],
+  "author": "muhamadluthfiam <mluthfiamrullah@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.0"
+  }
+}
