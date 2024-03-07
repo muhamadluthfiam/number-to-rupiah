@@ -7,6 +7,10 @@
   "scripts": {
     "test": "nodemon"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhamadluthfiam/numeric-toolkit.git"
+  },
   "keywords": [
     "number",
     "format",
